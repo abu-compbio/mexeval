@@ -4,7 +4,7 @@
 
 ### Structure
 
-1. mutex_data: Includes all the input data such as mutual_exclusivity files, MLA files, PPI files etc. "{method}_mutation_filtered_ep_data" folder contains the MEX files.
+#### 1. mutex_data: Includes all the input data such as mutual_exclusivity files, MLA files, PPI files etc. "{method}_mutation_filtered_ep_data" folder contains the MEX files.
 
 	A. binary_matrices_all_genes_ep_mutation_filtered: includes binary matrices for mutation data.
 
@@ -19,7 +19,7 @@
 	F: Census_allFri_Apr_26_12_49_57_2019.tsv: COSMIC file (Known driver genes)
 
 
-2. src_main: this includes the source code for the proposed evaluation and additional analysis
+#### 2. src_main: this includes the source code for the proposed evaluation and additional analysis
 
 	A. evaluate_methods_on_permutations_version3_with_case_counts_rare.ipynb is the main source code for the evaluation. As output, you get tables with all analysis results.
 
@@ -30,4 +30,4 @@
 	D. plot_perc_sig_fig3_random_sampling_neighbors.ipynb takes the mutex files as input, and plots %sig.
 	
 
-3. results_main: This contains the results from the scripts in src_main.
+#### 3. results_main: This contains the results from the scripts in src_main.
