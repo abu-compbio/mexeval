@@ -1,0 +1,7 @@
+python/build
+
+.hg
+.hgignore
+.hgtags
+
+mutex_data/
