@@ -1,6 +1,6 @@
 # The project involves evaluation of mutual exclusivity methods: Discover, Discover_strat, Fisher's Exact Test, MEGSA, MEMO and WExT. The results from these methods include pairwise mutual exclusivity p-values. Based on them, we apply our network centric epistatic evaluation.
 
-# This is a concise repository for the epistasis project codes. We experimented with many ideas, factors and parameters. Some of them are not included for the final paper.
+## This is a concise repository for the epistasis project codes. We experimented with many ideas, factors and parameters. Some of them are not included for the final paper.
 
 ### Structure
 
